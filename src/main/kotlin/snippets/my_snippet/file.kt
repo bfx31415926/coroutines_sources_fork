@@ -23,9 +23,9 @@ import kotlin.coroutines.CoroutineContext.Key
 //        return IC()//throw NotImplementedError("Implemented as intrinsic")
 //    }
 //
-//fun main(){
-//    println(v)
+fun main(){
+    println("HELLO1")
 //    val c1 = C1("string1")
 //    v = c1
 //    println(v)
-//}
+}
